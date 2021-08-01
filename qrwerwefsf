@@ -1,0 +1,6 @@
+local args = {
+    [1] = "buyAllSwords",
+    [2] = "Ground",
+}
+
+game:GetService("Players")["Xxhack4fun_xX"].ninjaEvent:FireServer(unpack(args))
